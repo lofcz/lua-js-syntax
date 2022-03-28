@@ -446,6 +446,11 @@ print(j)
     
 // Ternary operator
 let ternaryResult = 2 > 1 ? 'two is more than one' : 'something is wrong'
+    
+// Range operator
+for (i in 1..10) {
+    print(i)    
+}
 ```
 
 </td>
@@ -495,6 +500,11 @@ print(j)
 
 -- Ternary operator
 local ternaryResult = (2 > 1) and ('two is more than one') or ('something is wrong')
+    
+-- Range operator
+for i = 0, 10 do
+ print(i)
+end
 ```
 
 </td>
