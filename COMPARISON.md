@@ -1,5 +1,11 @@
 # Comparison with vanilla Lua
 
+### ▶️ [Updated draft here](https://docs.google.com/document/d/1N5u5zB1AGDgY_l0AZ4WF7DYJLB9rjwEZPhSNihP0hgA)
+
+See below only for the original propose
+
+<hr />
+
 Note that comments and indents are not preserved during the conversion, they were added to 
 the Lua code manually.
 
